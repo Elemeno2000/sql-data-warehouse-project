@@ -37,4 +37,5 @@ This project is licensed under the [MIT license](LICENSE). You are free to use, 
 
 ## About Me
 
-I am building this project to develop my skills and experience with SQL and data analytics and associated tools.
+Hello. I am Alan and am building this project to develop my skills and experience with SQL and data analytics and associated tools. This is part of the YouTube course by **Data with Baraa**, 
+*SQL Full Course for Beginners (30 Hours) – From Zero to Hero*.
